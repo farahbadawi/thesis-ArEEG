@@ -1,3 +1,13 @@
+# 📘 **ArEEG: Arabic Inner Speech EEG Dataset & Decoding Pipeline
+
+Welcome to the official repository for **our undergraduate thesis project at The American University in Cairo** , focusing on decoding Arabic imagined speech (inner speech) using EEG signals.
+
+This repository includes all code, experiments, documentation, and models created as part of our thesis.
+
+# 📦 **Dataset used:
+👉 ArEEG: An Open-Access Arabic Inner Speech EEG Dataset
+🔗 https://github.com/Eslam21/ArEEG-an-Open-Access-Arabic-Inner-Speech-EEG-Dataset
+
 # 🚨 **Why This Project Matters**
 
 Individuals with **ALS**, **Locked-in Syndrome**, or severe paralysis often lose the ability to speak.
