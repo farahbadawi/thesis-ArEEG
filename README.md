@@ -19,7 +19,7 @@ However, major challenges exist:
 * 🇬🇧 **Almost all existing datasets are English-only**
 * 🔊 **EEG signals are noisy and non-stationary**
 * 🧠 **Models struggle to generalize across subjects**
-* 🇸🇦 **Very limited research exists for Arabic imagined speech**
+* 🇪🇬 **Very limited research exists for Arabic imagined speech**
 
 ✨ This makes **ArEEG the first open-access Arabic inner speech EEG dataset**, enabling more inclusive BCI research.
 
@@ -42,9 +42,9 @@ We develop pipelines for preprocessing, feature extraction, and deep-learning-ba
 ## 🏗 **Complete Processing Pipeline**
 
 * Preprocessing (filters, ICA, re-referencing)
-* Feature extraction (PSD, FFT, Wavelets, ERP)
-* Deep learning models (CNN, LSTM, Transformers)
-* Evaluation (cross-subject & within-subject)
+* Feature extraction (P300, CSP Features, Riemannian features, Time-Frequency, Spatial Featurew)
+* Deep learning models (CNN, LSTM, Transformers) 
+* Evaluation (cross-subject & within-subject) 
 
 ---
 
@@ -61,6 +61,4 @@ All code will be published here as the thesis progresses.
 * Nadine Karam
 * Nour Salem
 
-Advisor: **Dr. Seif Eldawlatly**, Department of Data Science, AUC
-
--
+Mentor: **Dr. Seif Eldawlatly**, Department of Data Science, AUC
